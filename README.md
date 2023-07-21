@@ -14,4 +14,6 @@ $ dot -Tpng -o graph.png graph.dot
 
 ```
 
+![A sample graph png](graph.png)
+
 Inspired by [debtree](https://salsa.debian.org/debian/debtree) (also [here](https://tracker.debian.org/pkg/debtree))

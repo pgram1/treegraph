@@ -5,7 +5,7 @@ Modify the `root_directory` variable with the path of the directory that you wan
 
 Then execute with `python treegraph.py`
 
-The output can be piped to a file that the [dot utility](https://tracker.debian.org/pkg/graphviz) can use to generate a graph, like so:
+The output can be redirected to a file that the [dot utility](https://tracker.debian.org/pkg/graphviz) can use to generate a graph, like so:
 
 ```shell
 $ python treegraph.py > graph.dot
